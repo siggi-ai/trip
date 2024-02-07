@@ -1,7 +1,7 @@
 <template>
 
     <header class="relative flex items-center justify-center h-screen mb-12 overflow-hidden">
-      <button class="relative z-30 p-5 text-8xl text-white">
+      <button class="relative z-30 -mt-[500px] md:mt-5 p-5 text-8xl text-white">
       <router-link to="first">trip</router-link>
     </button>
 

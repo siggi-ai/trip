@@ -8,5 +8,10 @@ export default {
     extend: {},
   },
   plugins: [],
+  extend: {
+    margin: {
+      '500px': '500px',
+    }
+  }
 }
 
